@@ -1,6 +1,7 @@
 # Gamestore
 
-New Flutter project : /!\ 1st test /!\
+New Flutter project : /!!!\ 1st TEST /!!!\ 
+
 Creating a gamestore app/
 
 ## Getting Started
